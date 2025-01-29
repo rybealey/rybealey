@@ -1,5 +1,8 @@
-# Howdy, visitor. 🤠
-Experienced web strategist skilled in bridging the gap between content creation and engineering teams, enhancing storytelling and developing interactive online experiences.
+# Howdy, visitor. 👋
+I'm an experienced web strategist skilled in bridging the gap between content creation and engineering teams, enhancing storytelling and developing interactive online experiences.
+
+Born in:      Orlando, FL 🌴
+Working in:   Austin, TX 🤠
 
 ## Competencies 
 Microsoft Azure; Git, GitHub; HTML, CSS, and JavaScript; jQuery/AJAX; ReactJS, and NextJS; TypeScript; Tailwind CSS; shadcn/ui; NodeJS; RESTful APIs; Snowflake, MySQL, PostgreSQL, NoSQL; WordPress; Shopify
