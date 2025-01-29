@@ -1,5 +1,5 @@
 # Howdy, visitor. 👋
-I'm an experienced web strategist skilled in bridging the gap between content creation and engineering teams, enhancing storytelling and developing interactive online experiences.
+My name's Ry! I'm an experienced web strategist skilled in bridging the gap between content creation and engineering teams, enhancing storytelling and developing interactive online experiences.
 
 Born in:      Orlando, FL 🌴\
 Working in:   Austin, TX 🤠
