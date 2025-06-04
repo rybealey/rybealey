@@ -16,7 +16,7 @@ Microsoft Azure; Git, GitHub; HTML, CSS, and JavaScript; jQuery/AJAX; ReactJS, a
 -  Transformed 300+ knowledge base pages for a new propriatary content management system, enhancing readability and accessibility.
 - Participated in beta testing, providing feedback to IS&T product owners to improve overall design and functionality.
 - Developed process flows to help global AppleCare employees and partners visualize SAP operations.
-### Founder at Ecobyte Web Services, Austin TX
+### Founder at Rizz Enterprises LLC, Austin TX
 - Effectively communicated software errors and project roadblocks, consulting with
 clients to deliver optimal solutions tailored to project requirements.
 - Provided resilient server solutions and expert software support, ensuring maximum up-time and usability
