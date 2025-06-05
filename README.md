@@ -5,7 +5,7 @@ Born in:      Orlando, FL 🌴\
 Working in:   Austin, TX 🤠
 
 ## 👨‍💻 Competencies 
-Microsoft Azure; Git, GitHub; HTML, CSS, and JavaScript; jQuery/AJAX; ReactJS, and NextJS; TypeScript; Tailwind CSS; shadcn/ui; NodeJS; RESTful APIs; Snowflake, MySQL, PostgreSQL, NoSQL; WordPress; Shopify
+Microsoft Azure; Git; HTML, CSS, and JavaScript; jQuery/AJAX; ReactJS and NextJS; TypeScript; NodeJS; RESTful APIs; Snowflake, MySQL and PostgreSQL, NoSQL; WordPress; Shopify; Figma
 
 ## 💼 Employment History
 ### ML Test Automation & Production Support, Austin TX
@@ -23,5 +23,6 @@ clients to deliver optimal solutions tailored to project requirements.
 - Acted in on-call duties relevant to server downtime or issues faced by clients during critical moments.
 
 ## 📚 Education
-- Digital Media, B.A., University of Central Florida, Orlando
-- Coding Bootcamp SWE Certificate, University of Central Florida
+- Digital Media, B.A., University of Central Florida, Orlando, fin. 2019
+- Coding Bootcamp SWE Certificate, University of Central Florida, Orlando, fin. 2018
+- Coding Bootcamp SWE Certificate, TripleTen, Remote, ongoing | 🧑‍💻 [Save 30% on Software Engineering Bootcamp](https://referral.tripleten.com/u5voPVlC)
